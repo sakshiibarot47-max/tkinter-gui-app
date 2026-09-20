@@ -28,3 +28,6 @@ A desktop GUI application built with **Python (Tkinter)** and **MySQL** for mana
 1. **Install Dependencies:**
    ```bash
    pip install mysql-connector-python
+ ![App Screenshot](dashboard.png)
+
+
